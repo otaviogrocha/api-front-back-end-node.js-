@@ -10,4 +10,4 @@ Projeto prático para aprofundamento de API de forma síncrona e assíncrona + s
 - npm start: para ligar a API
 - npx lite-server: para ligar o servidor local 
 
-### Baseado no conteúdo de -> [RocketSeat]("https://www.youtube.com/watch?v=vYlz3SmNXQQ")
+### Baseado no conteúdo de -> [RocketSeat](https://www.youtube.com/watch?v=vYlz3SmNXQQ)
